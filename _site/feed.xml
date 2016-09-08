@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Food for the People</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2016-09-08T15:52:42+02:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>António Domingues</name>
+  <uri>http://localhost:4000/</uri>
+  <email>amjdomingues@gmail</email>
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[The beginning]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/the-start/" />
+  <id>http://localhost:4000/articles/the-start</id>
+  <published>2016-09-08T00:00:00+02:00</published>
+  <updated>2016-09-08T00:00:00+02:00</updated>
+  <author>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;h3 id=&quot;food&quot;&gt;Food&lt;/h3&gt;
+&lt;p&gt;We all love food… we’ll I do, and luckily for you I also like to share recipes.&lt;/p&gt;
+
+&lt;h3 id=&quot;cooking--science--coding&quot;&gt;Cooking ~ Science ~ Coding&lt;/h3&gt;
+&lt;p&gt;Cooking, like science and coding involves several iterations, failed experiments, and “this could be improved”. So this is the place will I will put mine modifications to recipes, so that other can use. This being GitHub, it also means that others can see what went wrong, that the recipe, and improve it. &lt;/p&gt;
+
+&lt;!-- ### Creating pages manually
+If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+ --&gt;
+
+&lt;h3 id=&quot;authors-and-contributors&quot;&gt;Authors and Contributors&lt;/h3&gt;
+&lt;p&gt;It will be mostly done by me, @adomingues, with the help of my partner in crime, AF, which does not have a GitHub account. Yet.&lt;/p&gt;
+
+&lt;h3 id=&quot;contact&quot;&gt;Contact&lt;/h3&gt;
+&lt;p&gt;Tips, hints, and cookies to my &lt;a href=&quot;amjdomingues@gmail.com&quot;&gt;inbox&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;resources-used-to-create-the-blog&quot;&gt;Resources used to create the blog&lt;/h3&gt;
+&lt;p&gt;This &lt;a href=&quot;https://help.github.com/articles/creating-project-pages-manually/&quot;&gt;tutorial&lt;/a&gt; and &lt;a href=&quot;http://mmistakes.github.io/so-simple-theme/theme-setup/&quot;&gt;Theme&lt;/a&gt;, with credits to Michael Rose.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/the-start/&quot;&gt;The beginning&lt;/a&gt; was originally published by António Domingues at &lt;a href=&quot;http://localhost:4000&quot;&gt;Food for the People&lt;/a&gt; on September 08, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Refreshing Mallorca salad]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/Mallorca-salad/" />
+  <id>http://localhost:4000/blog/Mallorca-salad</id>
+  <published>2016-09-06T19:11:02+02:00</published>
+  <updated>2016-09-06T19:11:02+02:00</updated>
+  <author>
+    <name>António Domingues</name>
+    <uri>http://localhost:4000</uri>
+    <email>amjdomingues@gmail</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;This recipe was nicked from &lt;a href=&quot;http://www.randomhouse.de/Buch/Kochbuch/Tim-Maelzer/Mosaik-Verlag/e241466.rhd&quot;&gt;this recipe book&lt;/a&gt;, so all credits go to Tim Mälzer (a famous TV chef in Germany). What I like about it is the freshness that comes from the peaches added to the tanginess of the white wine vinegar. it is also very how colorful and a treat to the eyes. Even though it can be eaten by itself in a warm summer evening, it is perfect as a side in a BBQ. Vegetarian friendly as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/MallorcaSalad.jpg&quot; alt=&quot;Sometimes a salad comes with little sausages.&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;variations&quot;&gt;Variations&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;As per usual, once I messed up the grocery shopping, so instead of the tomatoes I got a cucumber, and instead of the green pepper I got a red. Went ahead and made the salad with these ingredients and it worked. I still prefer the tomatoes for this salad though. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Servings: 2 as a main dish or 3-4 as a side&lt;/li&gt;
+  &lt;li&gt;Prep Time:  20 minutes&lt;/li&gt;
+  &lt;li&gt;Rest Time: 10 minutes&lt;/li&gt;
+  &lt;li&gt;Total Time:  30 minutes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Feta cheese: 150 grams&lt;/li&gt;
+  &lt;li&gt;Onions: 1&lt;/li&gt;
+  &lt;li&gt;Green bell pepper: 1&lt;/li&gt;
+  &lt;li&gt;Yellow bell pepper: 1&lt;/li&gt;
+  &lt;li&gt;Tomatoes: 4&lt;/li&gt;
+  &lt;li&gt;Peaches: 2&lt;/li&gt;
+  &lt;li&gt;Olive oil: 6 tablespoons&lt;/li&gt;
+  &lt;li&gt;White wine vinegar: 3-4 tablespoons&lt;/li&gt;
+  &lt;li&gt;Black pepper: to taste&lt;/li&gt;
+  &lt;li&gt;Sea salt: to taste&lt;/li&gt;
+  &lt;li&gt;Sugar: a pinch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;directions&quot;&gt;Directions&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Peel the onion, de-seed the bell peppers and the tomatoes, and remove the core from the peaches. Cut everything, including the Feta in small pieces.&lt;/li&gt;
+  &lt;li&gt;In a bowl, Mix the onion, peaches, peppers and tomatoes with the olive oil, vinegar, salt, black pepper and sugar. Let it marinate for 10 minutes.&lt;/li&gt;
+  &lt;li&gt;Check the salad for taste and add the Feta.&lt;/li&gt;
+  &lt;li&gt;Serve.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/Mallorca-salad/&quot;&gt;Refreshing Mallorca salad&lt;/a&gt; was originally published by António Domingues at &lt;a href=&quot;http://localhost:4000&quot;&gt;Food for the People&lt;/a&gt; on September 06, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Duck breast with Pumpkin mash]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/Duck-with-red-curi-squash-mash/" />
+  <id>http://localhost:4000/blog/Duck-with-red-curi-squash-mash</id>
+  <published>2016-09-03T20:15:02+02:00</published>
+  <updated>2016-09-03T20:15:02+02:00</updated>
+  <author>
+    <name>António Domingues</name>
+    <uri>http://localhost:4000</uri>
+    <email>amjdomingues@gmail</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;For Pumpkin mash I took some inspiration from this BBC Good Food inspiration but replaced the Butternut Squash with Red Curi squash, also know as &lt;a href=&quot;https://en.wikipedia.org/wiki/Red_kuri_squash&quot;&gt;Hokkaido amongst other names&lt;/a&gt;. I did this because (i) that was the pumpkin available in the market and (ii) does not to be peeled saving a lot of time and effort. Also, if Dolcelate is not available just use Gorgonzola or other Blue Cheese, but choose a mild one unless you like pungent cheese flavors.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/PumkinMashAndDuck.jpg&quot; alt=&quot;Some fancy stuff&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Servings: 4&lt;/li&gt;
+  &lt;li&gt;Prep Time:  30 mins&lt;/li&gt;
+  &lt;li&gt;Cook Time:  40 mins&lt;/li&gt;
+  &lt;li&gt;Total Time: 70 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Red Curi Squash mash&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dolcelatte cheese: 100 g&lt;/li&gt;
+  &lt;li&gt;Red Curi squash: One medium/Large&lt;/li&gt;
+  &lt;li&gt;Olive oil, 1 tablespoon&lt;/li&gt;
+  &lt;li&gt;Black pepper: to taste, if available use pepper with citrus flavor&lt;/li&gt;
+  &lt;li&gt;Sea salt: to taste&lt;/li&gt;
+  &lt;li&gt;Fresh chives, 1 tablespoon, to garnish optional &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Pan-fried duck&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;duck breasts: 2, about 225g each&lt;/li&gt;
+  &lt;li&gt;Black pepper: to taste, if available use pepper with citrus flavor&lt;/li&gt;
+  &lt;li&gt;Sea salt: to taste&lt;/li&gt;
+  &lt;li&gt;Port wine: 10 mL&lt;/li&gt;
+  &lt;li&gt;Cornflour: 1 teaspoon of &lt;/li&gt;
+  &lt;li&gt;Cranberry jam: 2 tablespoons, optional&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;directions&quot;&gt;Directions&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Red Curi Squash mash&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Wash the squash, remove the seeds, and cut in large chunks.&lt;/li&gt;
+  &lt;li&gt;Boil the pieces of squash in water with a little salt until tender - 15 to 20 minutes should do it.&lt;/li&gt;
+  &lt;li&gt;Place the cheese, oil and cooked butternut into a bowl. Season with salt and freshly ground black pepper, then mash together.&lt;/li&gt;
+  &lt;li&gt;To serve spoon the mash onto the middle of a serving plate and sprinkle over the chopped chives.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Pan-fried duck&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;While the pumpkin is cooking, lightly score the skins of the duck breasts with a sharp knife. Rub the the duck breasts with salt and pepper and leave to stand for about 10 minutes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lay the duck breasts, skin side down, in a dry heavy-based large frying pan and gradually turn up the heat. Fry for five to 10 minutes, until most of the fat has rendered and the skin is golden brown.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Turn the duck breasts over and lightly brown the other side for a couple of minutes, or until they feel slightly springy when pressed. Remove from the pan and leave to rest in a warm place while you make the sauce. Note: if the duck breasts are thick and you prefer to have it well done, start the over at 180ºC, transfer the meat to a baking tray and roast for 5-10 minutes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For the sauce, pour off excess fat from the frying pan and place over a high heat. Pour in the port, stirring to deglaze, and let bubble for a minute. Add the cranberry jam and reduce the heat. Mix the cornflour with a splash of cold water to dissolve, and add it to the pan mixing well. Let it bubble until the liquid has the desired consistency. If it gets too thick, add a splash of water and mix.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add any juices from the resting duck. Taste and adjust the seasoning and add some jam or orange juice if desired. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Slice the duck breasts on the diagonal and fan them out on warmed serving plates. Spoon the sauce around the duck and serve with the mashed celery root.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/Duck-with-red-curi-squash-mash/&quot;&gt;Duck breast with Pumpkin mash&lt;/a&gt; was originally published by António Domingues at &lt;a href=&quot;http://localhost:4000&quot;&gt;Food for the People&lt;/a&gt; on September 03, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Tomato and salmon salad]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/Tomato-and-salmon-salad/" />
+  <id>http://localhost:4000/blog/Tomato-and-salmon-salad</id>
+  <published>2016-08-22T22:15:02+02:00</published>
+  <updated>2016-08-22T22:15:02+02:00</updated>
+  <author>
+    <name>António Domingues</name>
+    <uri>http://localhost:4000</uri>
+    <email>amjdomingues@gmail</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;This was supposed to have avocado in the salad, and coriander instead of parsley. But guess what, the avocado was over-ripe - actually black inside - and there was some parsley left-over that needed eating. The egg was also not in the original recipe, but I find the combination of salmon and egg a very good one. So there. In end it turned to be a very tasty summery salad.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Servings: 2&lt;/li&gt;
+  &lt;li&gt;Prep Time:  10 mins&lt;/li&gt;
+  &lt;li&gt;Cook Time:  20 mins&lt;/li&gt;
+  &lt;li&gt;Total Time:  30 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;salmon fillets: 2 pieces&lt;/li&gt;
+  &lt;li&gt;eggs: 2 pieces&lt;/li&gt;
+  &lt;li&gt;Cherry tomatoes: 300 grams&lt;/li&gt;
+  &lt;li&gt;Red onion: 1 piece&lt;/li&gt;
+  &lt;li&gt;Parsley: a handful&lt;/li&gt;
+  &lt;li&gt;Black pepper: to taste&lt;/li&gt;
+  &lt;li&gt;Sea salt: to taste&lt;/li&gt;
+  &lt;li&gt;Olive oil: 3 tablespoons, extra to brush the salmon&lt;/li&gt;
+  &lt;li&gt;Lime juice: 2 tablespoons, or a lime&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;directions&quot;&gt;Directions&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Pre-heat the oven at 190ºc.&lt;/li&gt;
+  &lt;li&gt;Brush salmon fillets with olive oil and season with salt.&lt;/li&gt;
+  &lt;li&gt;Grill Salmon for 15-20 min.&lt;/li&gt;
+  &lt;li&gt;While the Salmon is grilling, halve the tomatoes, thinly slice the onion,  and roughly chop the parley. &lt;/li&gt;
+  &lt;li&gt;Add a spoon of olive oil to a frying pan, or whatever amount is needed to coat the pan, and fry the eggs sunny side up.  &lt;/li&gt;
+  &lt;li&gt;In a small bowl, stir together the tomatoes, onions, parsley, olive oil, lime juice, and season with salt and pepper.&lt;/li&gt;
+  &lt;li&gt;Serve in a plate with the vegetables on a side, and the egg on top of the salmon.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/Tomato-and-salmon-salad/&quot;&gt;Tomato and salmon salad&lt;/a&gt; was originally published by António Domingues at &lt;a href=&quot;http://localhost:4000&quot;&gt;Food for the People&lt;/a&gt; on August 22, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Mock Raffaello dessert]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/Mock-Raffaello/" />
+  <id>http://localhost:4000/blog/Mock-Raffaello</id>
+  <published>2016-08-22T18:11:02+02:00</published>
+  <updated>2016-08-22T18:11:02+02:00</updated>
+  <author>
+    <name>António Domingues</name>
+    <uri>http://localhost:4000</uri>
+    <email>amjdomingues@gmail</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/Raffaello.jpg&quot; alt=&quot;A lovely dessert can be prepared in a few minutes.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I like desserts with coconut or nuts, thus when a colleague told me about this Low-Carb version of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Raffaello_(confection)&quot;&gt;Raffaello pralines&lt;/a&gt; I just had to try it. This is a commercially available sweet that happens to have both, and but for the excessive sweetness (for my taste anyway) is actually quite good. The recipe does not quite replicate the sweet - could not form proper pralines - but makes a very &lt;em&gt;coconutty&lt;/em&gt;, easy to prepare dessert. It is made with pre-packaged ingredients, most of which might already be in one’s pantry - except maybe for the almond meal or coconut flour - so something to prepare in a hurry when guests come announced. &lt;/p&gt;
+
+&lt;p&gt;A few notes on the ingredients: &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Quark_(dairy_product)&quot;&gt;quark&lt;/a&gt; is an dairy product common in central Europe, and it is very versatile and tasty. It is something between a full fat Yogurt and cottage cheese. I use it very often as dessert with Apple mousse (and cinnamon). If you can’t get your hands to it, use another fresh cheese. Check the wiki article for names and alternatives in other languages.&lt;/li&gt;
+  &lt;li&gt;The almond flour is used to increase the consistency of the mixture and can be replaced by other nut flours or coconut flour.  &lt;/li&gt;
+  &lt;li&gt;Honey can be replaced with plain sugar. I prefer honey.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Servings: 4&lt;/li&gt;
+  &lt;li&gt;Prep Time:  20 mins&lt;/li&gt;
+  &lt;li&gt;Rest Time:  30 mins&lt;/li&gt;
+  &lt;li&gt;Total Time:  50 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quark (10% fat): 150 grams&lt;/li&gt;
+  &lt;li&gt;Coconut milk: 170 ml&lt;/li&gt;
+  &lt;li&gt;Shredded coconut: 2-3 tablespoons&lt;/li&gt;
+  &lt;li&gt;Honey: 1 tablespoon, or to taste&lt;/li&gt;
+  &lt;li&gt;Almond flour: 1-2 tablespoons, optional&lt;/li&gt;
+  &lt;li&gt;Ground hazelnuts: 1-2 tablespoons, to add on top&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;directions&quot;&gt;Directions&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Mix all the ingredients, except the Ground hazelnuts, in a bowl until they have a nice smooth consistency. This can be done with a spoon, or whisker or a KitchenAid style mixer.&lt;/li&gt;
+  &lt;li&gt;Leave it for at least 20 minutes in the fridge to cool off and acquire consistency.&lt;/li&gt;
+  &lt;li&gt;Serve in small dessert bowls and dot with the ground hazelnuts.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/Mock-Raffaello/&quot;&gt;Mock Raffaello dessert&lt;/a&gt; was originally published by António Domingues at &lt;a href=&quot;http://localhost:4000&quot;&gt;Food for the People&lt;/a&gt; on August 22, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
