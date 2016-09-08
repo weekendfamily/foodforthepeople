@@ -11,9 +11,9 @@ image:
 date: 2016-08-22 18:11:02.000000000 +02:00
 ---
 
-![A lovely dessert can be prepared in a few minutes.](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/Raffaello.jpg)
-
 I like desserts with coconut or nuts, thus when a colleague told me about this Low-Carb version of the [Raffaello pralines](https://en.wikipedia.org/wiki/Raffaello_(confection)) I just had to try it. This is a commercially available sweet that happens to have both, and but for the excessive sweetness (for my taste anyway) is actually quite good. The recipe does not quite replicate the sweet - could not form proper pralines - but makes a very _coconutty_, easy to prepare dessert. It is made with pre-packaged ingredients, most of which might already be in one's pantry - except maybe for the almond meal or coconut flour - so something to prepare in a hurry when guests come announced. 
+
+![A lovely dessert can be prepared in a few minutes.](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/Raffaello.jpg)
 
 A few notes on the ingredients: 
 
