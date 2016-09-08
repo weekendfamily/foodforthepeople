@@ -1,0 +1,85 @@
+[
+
+  
+    {
+      "title"			: "The beginning",
+      "link"			: "http://localhost:4000/articles/the-start/",
+      "excerpt"		: "Small statement about this blog."
+    }
+  
+
+  
+    ,{
+      "title"			: "Refreshing Mallorca salad",
+      "link"			: "http://localhost:4000/blog/Mallorca-salad/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Duck breast with Pumpkin mash",
+      "link"			: "http://localhost:4000/blog/Duck-with-red-curi-squash-mash/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Tomato and salmon salad",
+      "link"			: "http://localhost:4000/blog/Tomato-and-salmon-salad/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Mock Raffaello dessert",
+      "link"			: "http://localhost:4000/blog/Mock-Raffaello/",
+      "excerpt"		: ""
+    }
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "Theme Setup",
+      "link"			: "http://localhost:4000/theme-setup/",
+      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
+    }
+  
+
+  
+    ,{
+      "title"			: "Food related articles",
+      "link"			: "http://localhost:4000/articles/",
+      "excerpt"		: "Some musings on ingredients or recipes"
+    }
+  
+
+  
+
+  
+    ,{
+      "title"			: "What is food for the people?",
+      "link"			: "http://localhost:4000/about/",
+      "excerpt"		: "Collection of recipes for people that have not time and make mistakes - The People"
+    }
+  
+
+  
+
+  
+
+  
+
+]
