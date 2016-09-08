@@ -1,5 +1,5 @@
 # foodforthepeople
-A repository of tasty, simple, and mostly inexpensive recipes. Cooking for all!
+A repository of tasty, simple, and mostly inexpensive recipes. Cooking for all! The live website can be found at [http://weekendfamily.github.io/foodforthepeople/](http://weekendfamily.github.io/foodforthepeople/).
 
 ### Food
 We all love food... we'll I do, and luckily for you I also like to share recipes.
