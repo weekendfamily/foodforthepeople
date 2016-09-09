@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Duck breast with Pumpkin mash"
+excerpt: "A special meal for normal people"
 modified:
 categories: blog
 excerpt:
@@ -13,9 +14,20 @@ image:
 date: 2016-09-03 20:15:02.000000000 +02:00
 ---
 
-For Pumpkin mash I took some inspiration from this BBC Good Food inspiration but replaced the Butternut Squash with Red Curi squash, also know as [Hokkaido amongst other names](https://en.wikipedia.org/wiki/Red_kuri_squash). I did this because (i) that was the pumpkin available in the market and (ii) does not to be peeled saving a lot of time and effort. Also, if Dolcelate is not available just use Gorgonzola or other Blue Cheese, but choose a mild one unless you like pungent cheese flavors.
+Sometimes one wants to eat something nice and different, without having too much trouble or spending too much money. Or we want to impress guests. This one such recipe. The Duck screams _Vive la France_ and the pumpkin mash is seasonal, tasty and colorful.
+
+For the Pumpkin mash I took some inspiration from this BBC Good Food recipe, but replaced the Butternut Squash with Red Curi squash, also know as [Hokkaido amongst other names](https://en.wikipedia.org/wiki/Red_kuri_squash). I did this because:
+1. that was the pumpkin available in the market, and 
+2. this variety does not to be peeled saving a lot of time and effort.
+ 
+Other pumpkins could also be used, so check what your supermarket has on offer. Also, if Dolcelate is not available use Gorgonzola or other Blue Cheese. Try and choose a mild one unless you like pungent cheese flavors.
 
 ![Some fancy stuff](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/PumkinMashAndDuck.jpg)
+
+
+### Variations
+
+For the gravy you can use pretty much any fruit compote, or even a splash of orange juice. I did it before and it works. Almost anything fruity will go nicely with duck, so just experiment with whatever you have lying around in the kitchen. 
 
 ---
 
@@ -40,7 +52,7 @@ _Red Curi Squash mash_
 
 _Pan-fried duck_
 
-* duck breasts: 2, about 225g each
+* Duck breasts: 2, about 225g each
 * Black pepper: to taste, if available use pepper with citrus flavor
 * Sea salt: to taste
 * Port wine: 10 mL
