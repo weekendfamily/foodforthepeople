@@ -18,7 +18,7 @@ Salad is a staple for those warm summer nights. Mots of the time, we stick to le
 With the recipe at hand, I went grocery shopping, and when back at home things started going south. Guess what: the avocado was over-ripe - actually black inside - so this had to be excluded. There was no tuna in our freezer but salmon is a good replacement. Also, instead of the coriander from the original recipe, there was some parsley left-over that needed eating. The egg was not in the original recipe, but I find the combination of salmon and egg a very good one. So there. In end it turned to be a very tasty summery salad even though a completely different one from the original.
 
 
-### Source
+#### Source
 
 Inspiration from a recipe published in a magazine of a large Portuguese supermarket chain, Continente. If you can read Portuguese, the [sister website](https://chef.continente.pt/) has plenty of good recipes with a very good search function.
 
