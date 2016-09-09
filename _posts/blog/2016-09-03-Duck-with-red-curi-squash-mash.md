@@ -25,7 +25,7 @@ Other pumpkins could also be used, so check what your supermarket has on offer. 
 ![Some fancy stuff](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/PumkinMashAndDuck.jpg)
 
 
-### Variations
+#### Variations
 
 For the gravy you can use pretty much any fruit compote, or even a splash of orange juice. I did it before and it works. Almost anything fruity will go nicely with duck, so just experiment with whatever you have lying around in the kitchen. 
 
