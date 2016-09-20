@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Liver and Chicken hearts stew with cabbage and parsnip chips"
-excerpt: "Because cold weather requires warm food"
+title: "Salmon and spinach in a bed of celeriac"
+excerpt: "Some recipes get so bastardized that their mother would recognized them"
 modified:
 categories: blog
 excerpt:

@@ -56,3 +56,8 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
+
+# comments
+site:
+  owner:
+    disqus-shortname: fridaymeetssunday
