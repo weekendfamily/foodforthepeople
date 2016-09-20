@@ -61,4 +61,5 @@ owner:
 site:
   owner:
     disqus-shortname: fridaymeetssunday
-    
+
+comments: true
