@@ -73,9 +73,7 @@ _Parsnip chips_
 _Parsnip fries_
 
 1. Preheat oven to 190ºc.
-
 2. Peel the parsnips - a potato peeler will do - chop the tops off, and cut in fries.
-
 3. Mix the parsnips with the olive oil, paprika and salt, and lay in a roasting tin covered with baking paper. Roast for 25 minutes, turn them and roast for another 10 minutes. Mind you times may vary depending on your oven. 
 
  
