@@ -3,6 +3,8 @@ layout: post
 title: "Refreshing Mallorca salad"
 excerpt: "A refreshing summer salad with unusual ingredient combinations"
 modified:
+author: antonio_domingues
+share: true
 categories: blog
 tags:
     - Salad

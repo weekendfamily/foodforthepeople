@@ -3,6 +3,8 @@ layout: post
 title: "Duck breast with Pumpkin mash"
 excerpt: "A special meal for normal people"
 modified:
+author: antonio_domingues
+share: true
 categories: blog
 tags:
     - Duck

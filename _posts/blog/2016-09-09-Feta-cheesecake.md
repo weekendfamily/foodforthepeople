@@ -3,6 +3,8 @@ layout: post
 title: "Feta cheesecake"
 excerpt: "An odd ingredient makes for a wonderful cake"
 modified:
+author: antonio_domingues
+share: true
 categories: blog
 tags:
     - Dessert

@@ -3,6 +3,8 @@ layout: post
 title: "Tahini and tuna salad"
 excerpt: "A salad for the tuna lovers"
 modified:
+author: antonio_domingues
+share: true
 categories: blog
 tags:
     - Salad

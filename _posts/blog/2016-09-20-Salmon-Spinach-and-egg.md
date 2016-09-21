@@ -3,6 +3,8 @@ layout: post
 title: "Salmon and spinach in a bed of celeriac"
 excerpt: "Some recipes get so bastardized that their mother wouldn't recognized them"
 modified:
+author: antonio_domingues
+share: true
 categories: blog
 tags:
     - Fish
