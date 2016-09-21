@@ -38,7 +38,7 @@ owner:
   name: António Domingues
   avatar: bio-photo.jpg
   email: amjdomingues@gmail
-  disqus-shortname: fridaymeetssunday
+  # disqus-shortname: fridaymeetssunday
   twitter: #username
   facebook: #username
   github: adomingues
