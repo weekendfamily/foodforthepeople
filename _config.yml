@@ -58,3 +58,6 @@ owner:
   bing-verify:
 
 
+# Your disqus shortname, entering this will enable commenting on posts
+disqus: fridaymeetssunday
+comments: true
