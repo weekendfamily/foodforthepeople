@@ -4,7 +4,6 @@ title: "Liver and Chicken hearts stew with cabbage and parsnip chips"
 excerpt: "Because cold weather requires warm food"
 modified:
 categories: blog
-excerpt:
 tags:
     - Liver
     - Hearts

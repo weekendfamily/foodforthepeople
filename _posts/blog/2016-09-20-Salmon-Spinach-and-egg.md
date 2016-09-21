@@ -4,7 +4,6 @@ title: "Salmon and spinach in a bed of celeriac"
 excerpt: "Some recipes get so bastardized that their mother wouldn't recognized them"
 modified:
 categories: blog
-excerpt:
 tags:
     - Fish
     - Dinner

@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Tahini and tuna salad"
-excerpt: "Another summer salad"
+excerpt: "A salad for the tuna lovers"
 modified:
 categories: blog
-excerpt:
 tags:
     - Salad
     - Summer

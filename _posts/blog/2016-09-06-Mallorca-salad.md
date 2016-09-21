@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Refreshing Mallorca salad"
+excerpt: "A refreshing summer salad with unusual ingredient combinations"
 modified:
 categories: blog
-excerpt:
 tags:
     - Salad
     - Vegetarian

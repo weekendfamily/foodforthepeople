@@ -4,7 +4,6 @@ title: "Duck breast with Pumpkin mash"
 excerpt: "A special meal for normal people"
 modified:
 categories: blog
-excerpt:
 tags:
     - Duck
     - Main

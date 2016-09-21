@@ -2,9 +2,33 @@
 
   
     {
-      "title"			: "The beginning",
-      "link"			: "http://localhost:4000/articles/the-start/",
-      "excerpt"		: "Small statement about this blog."
+      "title"			: "Salmon and spinach in a bed of celeriac",
+      "link"			: "http://localhost:4000/blog/Salmon-Spinach-and-egg/",
+      "excerpt"		: "Some recipes get so bastardized that their mother wouldn't recognized them"
+    }
+  
+
+  
+    ,{
+      "title"			: "Liver and Chicken hearts stew with cabbage and parsnip chips",
+      "link"			: "http://localhost:4000/blog/Liver-and-Chicken-hearts-stew/",
+      "excerpt"		: "Because cold weather requires warm food"
+    }
+  
+
+  
+    ,{
+      "title"			: "Tahini and tuna salad",
+      "link"			: "http://localhost:4000/blog/Tahini-and-tuna-salad/",
+      "excerpt"		: "A salad for the tuna lovers"
+    }
+  
+
+  
+    ,{
+      "title"			: "Feta cheesecake",
+      "link"			: "http://localhost:4000/blog/Feta-cheesecake/",
+      "excerpt"		: "An odd ingredient makes for a wonderful cake"
     }
   
 
@@ -12,7 +36,7 @@
     ,{
       "title"			: "Refreshing Mallorca salad",
       "link"			: "http://localhost:4000/blog/Mallorca-salad/",
-      "excerpt"		: ""
+      "excerpt"		: "A refreshing summer salad with unusual ingredient combinations"
     }
   
 
@@ -20,7 +44,7 @@
     ,{
       "title"			: "Duck breast with Pumpkin mash",
       "link"			: "http://localhost:4000/blog/Duck-with-red-curi-squash-mash/",
-      "excerpt"		: ""
+      "excerpt"		: "A special meal for normal people"
     }
   
 
@@ -28,15 +52,23 @@
     ,{
       "title"			: "Tomato and salmon salad",
       "link"			: "http://localhost:4000/blog/Tomato-and-salmon-salad/",
-      "excerpt"		: ""
+      "excerpt"		: "A summer salad with salmon and egg"
     }
   
 
   
     ,{
-      "title"			: "Mock Raffaello dessert",
+      "title"			: "A Raffaello copycat",
       "link"			: "http://localhost:4000/blog/Mock-Raffaello/",
-      "excerpt"		: ""
+      "excerpt"		: "Fast and easy coconut flavored recipe"
+    }
+  
+
+  
+    ,{
+      "title"			: "The start",
+      "link"			: "http://localhost:4000/articles/the-start/",
+      "excerpt"		: "Small statement about this blog."
     }
   
 
@@ -72,7 +104,7 @@
     ,{
       "title"			: "What is food for the people?",
       "link"			: "http://localhost:4000/about/",
-      "excerpt"		: "Collection of recipes for people that have not time and make mistakes - The People"
+      "excerpt"		: "Collection of recipes for people that do not have time and make mistakes - The People"
     }
   
 

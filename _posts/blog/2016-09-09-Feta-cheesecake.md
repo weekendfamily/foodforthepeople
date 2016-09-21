@@ -4,7 +4,6 @@ title: "Feta cheesecake"
 excerpt: "An odd ingredient makes for a wonderful cake"
 modified:
 categories: blog
-excerpt:
 tags:
     - Dessert
     - Cake

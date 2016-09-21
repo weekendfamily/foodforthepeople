@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Mock Raffaello dessert"
+title: "A Raffaello copycat"
 excerpt: "Fast and easy coconut flavored recipe"
 modified:
 categories: blog
-excerpt:
 tags:
     - Dessert
 image:

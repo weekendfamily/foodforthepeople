@@ -4,7 +4,6 @@ title: "Tomato and salmon salad"
 excerpt: "A summer salad with salmon and egg"
 modified:
 categories: blog
-excerpt:
 tags:
     - Salad
     - Summer
