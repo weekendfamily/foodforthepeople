@@ -24,7 +24,7 @@ A few notes on the ingredients:
 1. [quark](https://en.wikipedia.org/wiki/Quark_(dairy_product)) is an dairy product common in central Europe, and it is very versatile and tasty. It is something between a full fat Yogurt and cottage cheese. I use it very often as dessert with Apple mousse (and cinnamon). If you can't get your hands to it, use another fresh cheese. Check the [wiki](https://en.wikipedia.org/wiki/Quark_(dairy_product)) article for names and alternatives in other languages/countries.
 2. The almond flour is used to increase the consistency of the mixture and can be replaced by other nut flours or coconut flour.  
 3. Honey can be replaced with plain sugar. I prefer honey.
-4. 
+
 
 ---
 * Servings: 4
