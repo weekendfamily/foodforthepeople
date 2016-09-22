@@ -15,25 +15,29 @@ date: 2016-09-20 21:00:02.000000000 +02:00
 ---
 
 
-This recipe started as a recommendation from my sister, after she tried a recipe seen on TV. It used quiuetiessencial Portuguese ingredients like cod, [Alheira](https://en.wikipedia.org/wiki/Alheira), [Broa](https://en.wikipedia.org/wiki/Broa), and [Grelos](https://en.wikipedia.org/wiki/Rapini). I did try it once with the proper ingredients, but I don't always the time to go the Portuguese grocery store. So through and iterative process of bastardization, Grelos became spinach, Cod is now salmon, and Alheira/Broa are nowhere to be seen and became celeriac.
+This recipe started as a recommendation from my sister, after she saw it in a cooking show o Portuguese TV. In it there are quintessential Portuguese ingredients like salted Cod, [Alheira](https://en.wikipedia.org/wiki/Alheira), [Broa](https://en.wikipedia.org/wiki/Broa), and [Grelos](https://en.wikipedia.org/wiki/Rapini). I made this recipe once with the proper ingredients, but I don't always have the time to go the Portuguese grocery store. So through an iterative process of bastardization, Grelos became spinach, Cod is now salmon, and Alheira/Broa are nowhere to be seen, and out of nowhere came the celeriac. This new recipe is now something that most people can do with ingredients that are readily available, looks goods and tastes wonderfully fresh and different.
 
-This new recipe is now something that most people can do with ingredients that are readily available, looks goods and wonderfully fresh and different. Do not fear the celeriac! It is wonderful vegetable, very versatile whose flavor has a hint of sweetness and is a (very) watered down version of the more pungent celery stalks. The eggs combines wonderfully with the salmon and makes adds some color to it - as we say "os olhos também comem" (~ eyes also eat).  
+Do not fear [celeriac](http://www.bbcgoodfood.com/glossary/celeriac)! It is wonderful vegetable, very versatile whose flavor has a hint of sweetness and is a (very) watered down version of the more pungent stalks. The eggs combines wonderfully with the salmon and adds some color to the dish - as we say "os olhos também comem" (~ eyes also eat).  
 
-
-![Tuna salad for the win](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/SpinachAndSalmon.jpg)
+![The bastard](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/SpinachAndSalmon.jpg)
 
 The results is dish full of flavor with citrus notes without being overpowering. As it is custom in Food For the People, it was prepared with some frozen ingredients (Salmon and Spinach) which makes it relatively easy to prepare when there is no time to do some fresh grocery shopping after work. 
 
+
 #### Variations
 
-The [original recipe](https://www.joseavillez.pt/jdownloads/Receitas/Receitas_S1/receita_p2_15jun_lascas_bacalhau.pdf) which I will translate one of these days. Also, thyme instead of rosemary. For the fish, I should try haddock one of these days. Take the fish away and you will have a vegetarian dish. [Swiss Chard](https://en.wikipedia.org/wiki/Chard) could also replace the spinach and it combines very well with orange.
+- The [original recipe](https://www.joseavillez.pt/jdownloads/Receitas/Receitas_S1/receita_p2_15jun_lascas_bacalhau.pdf) which I will translate one of these days.
+- Thyme instead of rosemary. 
+- For the fish, I should try haddock one of these days. 
+- Take the fish away and you will have a vegetarian dish. 
+- [Swiss Chard](https://en.wikipedia.org/wiki/Chard) could also replace the spinach and it combines very well with orange.
 
 
 #### Inspiration
 
-The inspiring recipe can be found [here (Portuguese)](https://www.joseavillez.pt/jdownloads/Receitas/Receitas_S1/receita_p2_15jun_lascas_bacalhau.pdf) and it is a creation of the [Chef José Avillez](https://www.joseavillez.pt). That said, the recipe has changed so much that is bares little resemblance with the original.
+The inspiring recipe can be found [here (Portuguese)](https://www.joseavillez.pt/jdownloads/Receitas/Receitas_S1/receita_p2_15jun_lascas_bacalhau.pdf) and it is a creation of the [Chef José Avillez](https://www.joseavillez.pt). That said, the recipe has changed so much that is bares little resemblance with the original. Full bastardization has been completed.
 
-For celeriac I stole the recipe from [Jamie Oliver](http://www.jamieoliver.com/recipes/vegetables-recipes/simple-as-that-celeriac/) and modified it a little.
+For the fried celeriac I stole the recipe from [Jamie Oliver](http://www.jamieoliver.com/recipes/vegetables-recipes/simple-as-that-celeriac/) and improvised with the herbs I had at home.
 
 ---
 
