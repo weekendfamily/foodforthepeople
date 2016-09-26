@@ -29,6 +29,8 @@ When I first saw this recipe I was a little suspicious: blue cheese? Parsnip? Bu
 
 This is a recipe from my favorite cookbook: [Three Good Things (... on a plate)](https://www.amazon.com/Hughs-Three-Good-Things-Fearnley-Whittingstall/dp/1408828588) by Hugh Fearnley-Whittingstall. The book is excellent in that most recipes require easy to source ingredients, the cooking techniques are pretty easy, and so far all those that I have tried were very tasty. Not all recipes are For The People, but the ratio of useful recipes and "look at me I know fancy ingredients" is in favor of the thrifty chap in me.
 
+If you don't fancy getting the book, some of the recipes are available in [The Guardian](https://www.theguardian.com/lifeandstyle/series/hugh-s-three-good-things-on-a-plate).
+
 
 ---
 
