@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stew with Uzbek spices"
-excerpt: "Cumin goodness"
+excerpt: "Some food just needs to be shared with friends"
 modified:
 author: antonio_domingues
 share: true
