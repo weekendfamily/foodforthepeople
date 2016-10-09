@@ -83,4 +83,3 @@ _Pan-fried duck_
 5. Add any juices from the resting duck. Taste and adjust the seasoning and add some jam or orange juice if desired. 
 
 6. Slice the duck breasts on the diagonal and fan them out on warmed serving plates. Spoon the sauce around the duck and serve with the mashed celery root.
- 
