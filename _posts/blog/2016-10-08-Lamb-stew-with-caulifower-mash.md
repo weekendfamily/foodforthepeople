@@ -95,9 +95,9 @@ _Lamb stew_
 
 4. Cook for about 30 minutes, and then lower the temperature to 150ºc. Cook for another 3-3 and half hours. Serve in a rustic pot with the side of Cauliflower mash.
 
-4. For the sauce, pour off excess fat from the frying pan and place over a high heat. Pour in the port, stirring to deglaze, and let bubble for a minute. Add the cranberry jam and reduce the heat. Mix the cornflour with a splash of cold water to dissolve, and add it to the pan mixing well. Let it bubble until the liquid has the desired consistency. If it gets too thick, add a splash of water and mix.
+5. For the sauce, pour off excess fat from the frying pan and place over a high heat. Pour in the port, stirring to deglaze, and let bubble for a minute. Add the cranberry jam and reduce the heat. Mix the cornflour with a splash of cold water to dissolve, and add it to the pan mixing well. Let it bubble until the liquid has the desired consistency. If it gets too thick, add a splash of water and mix.
 
-5. Add any juices from the resting duck. Taste and adjust the seasoning and add some jam or orange juice if desired. 
+6. Add any juices from the resting duck. Taste and adjust the seasoning and add some jam or orange juice if desired. 
 
-6. Slice the duck breasts on the diagonal and fan them out on warmed serving plates. Spoon the sauce around the duck and serve with the mashed celery root.
+7. Slice the duck breasts on the diagonal and fan them out on warmed serving plates. Spoon the sauce around the duck and serve with the mashed celery root.
  
