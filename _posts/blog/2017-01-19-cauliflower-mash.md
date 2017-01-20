@@ -12,7 +12,7 @@ tags:
     - Cauliflower
 image:
   feature:
-date: 2017-01-19 22:53:02.000000000 +02:00
+date: 2016-11-07 22:11:02.000000000 +02:00
 ---
 
 Cauliflower mash is becoming one of my favorite side dishes. Very easy to prepare and versatile, it goes well with a number of dishes, specially [stews](http://weekendfamily.github.io/foodforthepeople/blog/Lamb-stew-with-caulifower-mash/). This version is more evolved, with the spring onion and bacon making almost a main course on it's own, but removed that and you are left with an incredible, and healthy, complement to most meals.

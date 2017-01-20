@@ -12,7 +12,7 @@ tags:
     - Chicken
 image:
   feature:
-date: 2017-01-19 22:20:02.000000000 +02:00
+date: 2016-11-07 22:11:02.000000000 +02:00
 ---
 
 So, I am living abroad, still honing in my cooking skills and think of the tasty food my used to do and I can't quite replicate. I am really aching for some comfort stew. What to do?
