@@ -22,9 +22,9 @@ Cauliflower mash is becoming one of my favorite side dishes. Very easy to prepar
 
 ### Variations
 
-- The spring onion and back are extras and not needed for the basic mash.
-- Any heavy cream will do if you don't have creme fraiche at hand. I have used greek yogurt in a pinch.
-- You can can also add a dollop of butter.
+- The spring onion and bankon are extras and not needed for the basic mash.
+- If you don't have creme fraiche at hand any heavy cream will do. I have used greek yogurt in a pinch.
+- You can also add a dollop of butter.
 
 
 #### Source
