@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Celeriac _gratin_"
+title: "Celeriac gratin"
 excerpt: "Or how to convert a fancy recipe into a meal for the masses"
 modified:
 categories: blog
