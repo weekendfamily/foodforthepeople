@@ -65,7 +65,7 @@ Me mum.
 
 #### Ingredients
 
-* 4 chicken thighs
+* Chicken thighs: 4
 * Carrots: 8, roughly chopped
 * Beer (lager): 200 mL
 * Onion: 2, chopped
