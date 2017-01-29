@@ -53,6 +53,7 @@ Here and there. I took a basic [zucchini frittata recipe](http://breakingmuscle.
 * Eggs: 10
 * Carrots: 3, shredded
 * Zuchini: 3, shredded
+* Red bell pepper: 1, diced
 * Parmigiano: 50 g, grated
 * Feta: 200 g, cubed in small pieces
 * Chouriço: 1, ~200 g, cubed in small pieces
@@ -65,7 +66,7 @@ Here and there. I took a basic [zucchini frittata recipe](http://breakingmuscle.
 
 #### Directions
   
-1. In an oven-prof casserole (dutch oven) or a flameproof roasting tin (see picture above), heat the olive oil (medium heat) and fry the onion until translucent. Add the chouriço, and fry until a bit of the fat starts leaking, then add the carrots and zucchini, season, and fry for another 10 minutes, or until soft. 
+1. In an oven-prof casserole (dutch oven) or a flameproof roasting tin (see picture above), heat the olive oil (medium heat) and fry the onion until translucent. Add the chouriço and the bell pepper, and fry until a bit of the fat starts leaking, then add the carrots, zucchini, season, and fry for another 10 minutes, or until soft. 
 2. While the veggies are frying, start the oven at 175ºc, and whisk the eggs with the cream, some salt and pepper, and add in the Feta and the Parmigiano.
 3. Take the casserole away from the heat, mix the egg with the veggies, and take it to the oven for 25 minutes. 
 4. Enjoy!
