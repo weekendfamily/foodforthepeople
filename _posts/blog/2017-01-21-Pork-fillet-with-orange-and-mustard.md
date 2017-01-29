@@ -57,8 +57,8 @@ Inspiration from a recipe published in a magazine of a large Portuguese supermar
 
 #### Directions
 
-1. In a bowl make a paste with the mustard, olive oil, garlic, herbs, salt and pepper. Rub the pork fillet with it and put it in the roasting pot.  
-2. Squeeze two of the oranges and pour the juice over the fillet. Let it marinate in the fridge for a several hours.     
+1. In a bowl make a paste with the mustard, olive oil, garlic, herbs, salt and pepper. Rub the pork fillet with it and lay it in the roasting pot.  
+2. Squeeze the juice of two of the oranges and pour over the fillet. Let it marinate in the fridge for a several hours.     
 3. Start the over at 200ºc and roast, with the lid on top, for about 45 minutes. Check after 30 min if the meat is nearly done.
 4. While it roasts, peel the other two oranges and cut them into slices (about 1/2 cm, see picture).
 4. Once the meat is cooked, take it out and wrap it in aluminum foil to it warm and moist. Add white wine to roasting pan and scrape th bottom. If the roasting tin is not stove proof, transfer the sauce to a pot. Otherwise just heat it up and let the sauce boil for about 10 until its reduce to your taste. 
