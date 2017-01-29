@@ -15,17 +15,18 @@ image:
 date: 2017-01-19 22:20:02.000000000 +02:00
 ---
 
-So, I am living abroad, still honing in my cooking skills and think of the tasty food my used to do and I can't quite replicate. I am really aching for some comfort stew. What to do?
+So, I am living abroad, still honing my cooking skills and I start thinking of all the tasty food my mum used to do, but I can't quite replicate. I am really aching for some comfort food in the form of a stew. What to do?
 
-Well, go straight to the source: call home. So I did. Multiple times. I kept forgetting about the recipe. Writing it here will hopefully prevent that in that future.
+Well, go straight to the source: call home. So I did. Multiple times in fact because I kept forgetting the recipe. Hopefully writing it here will prevent that in that future. Not that I mind calling home. 
 
-This recipe kind of thicks all the boxes for me:
+Anyway, this recipe ticks all the boxes for me:
 
 - it can be prepared in a few minutes;
-- requires almost no supervision, which means one do something else whilst it cooks, for instance take a shower;
+- requires almost no supervision while cooking, which means can one do something else whilst it cooks, for instance take a shower;
 - minimal cooking skills;
 - minimal set of ingredients;
 - dead cheap;
+- Works for dinner parties;
 - can be prepared in advance for guests;
 - tasty.   
 
@@ -34,7 +35,7 @@ It is also one of those that can be prepared in the morning, let it marinate all
 ![Warms me heart!.](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/ChickenStew.jpg)
 
 
-As you can see in the picture it was served with some nice cauliflower mash, but potato mash or rice will do. I sometimes add extra carrots as side. Or just serve some bread on the side.  
+As you can see in the picture it was served with some nice [cauliflower mash](http://weekendfamily.github.io/foodforthepeople/blog/cauliflower-mash/), but potato mash or rice will do. I sometimes add extra carrots as side. Or just serve some bread on the side.  
 
 >When in doubt, add parsley. 
 
@@ -81,5 +82,5 @@ Me mum.
 #### Directions
 
 1. Separate chicken thighs from legs, clean, and put in a pan. Add all other ingredients and gently turn the meat once or twice. Cover with a lid and let it sit for a few hours in the fridge to acquire taste or proceed to step 2 if hungry. 
-2. Heat until it starts boiling, about 10 minutes, and then reduce to a gentle simmer. Cook for another 40-60 minutes until the meat is nearly falling of the bone. If you want to reduce the sauce, take the lid off for the last 15 minutes or so. Check for taste at this point and adjust seasoning.     
+2. Heat until it starts boiling, about 10 minutes, and then reduce to a gentle simmer. Cook for another 40-60 minutes until the meat is nearly falling off the bone. If you want to reduce the sauce, take the lid off for the last 15 minutes or so. Check for taste at this point and adjust seasoning.     
 3. Enjoy!
