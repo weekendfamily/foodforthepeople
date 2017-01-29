@@ -15,11 +15,11 @@ image:
 date: 2017-01-21 22:43:02.000000000 +02:00
 ---
 
-Not much to say about this dish except that it was very easy to prepare and tasted very nice indeed. The orange as a side (with some salad) is a [classic](https://pt.wikipedia.org/wiki/Leit%C3%A3o_assado_%C3%A0_Bairrada) from my neck of the woods, though it is usually served with fatty pork meat. This is the opposite, since it is very lean meat - it is a fillet after all - but still works great. The sauce was perfect, but the meat could have stayed longer in the marinade. I did for about 2-3 hours and it could have been there for double that time. 
+Not much to say about this dish except that it was very easy to prepare and tasted very nice indeed. The orange as a side (with some salad) is a [classic](https://pt.wikipedia.org/wiki/Leit%C3%A3o_assado_%C3%A0_Bairrada) from my neck of the woods, though it is usually served with fatty pork meat. This is the opposite, since it is very lean meat - it is a fillet after all - but still works great. The sauce was perfect, but the meat could have stayed longer in the marinade. I let it marinate for 2-3 hours and it could have been there for double that time. 
 
 ![Warms me heart!.](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/PorkFilletWithOrange.jpg)
 
-All in all, another of those dishes that require very little effort, and can prepared in advanced. It does need some time to marinate, so not something to do on a whim after coming home from work.
+All in all, another one of those dishes that require very little effort, and can prepared in advanced. It does need some time to marinate, so not something to do on a whim after coming home from work.
 
 
 ### Variations
