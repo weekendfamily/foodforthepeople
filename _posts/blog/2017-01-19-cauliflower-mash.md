@@ -15,14 +15,14 @@ image:
 date: 2017-01-19 22:53:02.000000000 +02:00
 ---
 
-Cauliflower mash is becoming one of my favorite side dishes. Very easy to prepare and versatile, it goes well with a number of dishes, specially [stews](http://weekendfamily.github.io/foodforthepeople/blog/easy-chicken-stew/). This version is more evolved, with the spring onion and bacon making almost a main course on it's own, but removed that and you are left with an incredible, and healthy, complement to most meals.
+Cauliflower mash is becoming one of my favorite side dishes. Very easy to prepare and versatile, it goes well with a number of dishes, specially [stews](http://weekendfamily.github.io/foodforthepeople/blog/easy-chicken-stew/). This version is more evolved, with the spring onion and bacon making it almost a main course on it's own, but remove that and you are left with an incredible, and healthy, complement to most meals.
 
 ![Power](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/CauliflowerMash.jpg)
 
 
 ### Variations
 
-- The spring onion and bankon are extras and not needed for the basic mash.
+- The spring onion and bacon are extras and not needed for the basic mash.
 - If you don't have creme fraiche at hand any heavy cream will do. I have used greek yogurt in a pinch.
 - You can also add a dollop of butter.
 
