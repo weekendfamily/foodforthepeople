@@ -23,7 +23,7 @@ In end the guests were quite happy - the wine might have had something to do wit
 
 There is no picture of the food, but I have one of the classic Portuguese roasting pot used to prepare it. Made of clay it is excellent to make one pot dishes in the oven.
 
-![Some fancy stuff](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/ClayPot.jpg)
+![Some fancy stuff]({{ site.url }}/images/img/ClayPot.jpg)
 
 
 #### Variations

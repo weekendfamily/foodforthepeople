@@ -20,7 +20,7 @@ Do you love chocolate? And I don't mean milk "chocolate", I mean the real, raw s
 
 If the answer to the above question was "where is it and when can I have it?" then this recipe is for you. This is also one for those that don't like evolved and complex dessert/cake recipes. It is doesn't even require baking.  
 
-![Intense](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/RawChocolateTart.jpg)
+![Intense]({{ site.url }}/images/img/RawChocolateTart.jpg)
 
 Has can be seen from the picture, it goes very well as little something for your coffee.
 

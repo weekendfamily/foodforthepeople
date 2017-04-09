@@ -32,7 +32,7 @@ Anyway, this recipe ticks all the boxes for me:
 
 It is also one of those that can be prepared in the morning, let it marinate all day, and then quickly cook in the evening. In fact, marinating will improve the taste. 
 
-![Warms me heart!.](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/ChickenStew.jpg)
+![Warms me heart!.]({{ site.url }}/images/img/ChickenStew.jpg)
 
 
 As you can see in the picture it was served with some nice [cauliflower mash](http://weekendfamily.github.io/foodforthepeople/blog/cauliflower-mash/), but potato mash or rice will do. I sometimes add extra carrots as side. Or just serve some bread on the side.  

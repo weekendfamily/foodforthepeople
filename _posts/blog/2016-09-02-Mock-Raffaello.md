@@ -17,7 +17,7 @@ I like desserts with coconut or nuts, thus when a colleague told me about this L
 
 Raffaello are a commercially available sweet that happens to have both coconut and almonds, and but for the excessive sweetness (for my taste anyway) it is quite good actually. The recipe does not quite replicate the sweet - I failed to form proper pralines with the proper shape - but makes a very _coconutty_, easy to prepare dessert. It is made with pre-packaged ingredients, most of which might already be in one's pantry - except maybe for the almond meal or coconut flour - so something to prepare in a hurry when guests come unannounced. 
 
-![A lovely dessert can be prepared in a few minutes.](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/Raffaello.jpg)
+![A lovely dessert can be prepared in a few minutes.]({{ site.url }}/images/img/Raffaello.jpg)
 
 A few notes on the ingredients: 
 

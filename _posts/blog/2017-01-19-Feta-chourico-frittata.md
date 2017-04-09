@@ -18,7 +18,7 @@ date: 2017-01-29 14:10:02.000000000 +02:00
 
 Frittatas. Omelets for the middle class. What I love about them as that the basic ingredients are usually in the house - eggs - and then one throw what it whatever is lying around the pantry/fridge. It can even be used to re-purpose left-overs. Adding veggies to it also makes it a very nourishing and nutritious meal. It is also easy to put together and is one of my go to recipes when I run out of ideas.
 
-![All the eggs!](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/FetaFrittata.jpg)
+![All the eggs!]({{ site.url }}/images/img/FetaFrittata.jpg)
 
 This recipe has Feta and chouriço, which are two of my favorite ingredients. Both very versatile and full of flavor and thus very little extra seasoning is needed. But don't be bound to these ingredients. See variations for more ideas.
 

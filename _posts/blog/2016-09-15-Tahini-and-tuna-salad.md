@@ -17,7 +17,7 @@ date: 2016-09-15 20:00:02.000000000 +02:00
 
 Summer is now almost over, but it is still warm enough for salads. And a salad does not need to be a sad affair, even if the ingredients are run of the mill, as I have been discovering. This one has Tuna in it to remind me of the Ocean, which I dearly miss, and tahini (sesame paste) to make me feel fancy. The halloumi is there to bulk it up and make it a proper main dish. 
 
-![Tuna salad for the win](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/TunaTahiniSalad.jpg)
+![Tuna salad for the win]({{ site.url }}/images/img/TunaTahiniSalad.jpg)
 
 The fancy ingredients, tahini and halloumi, can be found in large supermarkets, health food stores or Turkish/Middle Eastern stores, and they keep for long, specially the tahini, so no need to go every week to a store on the other side of town. The green used for the salad can be whatever you have at hand and can be eaten raw - any variety of lettuce, watercress, [Valerianella](https://en.wikipedia.org/wiki/Valerianella), or a mix of all of these will do. The first time I have seen Valerianella was in Germany, so I am not sure about the availability in other countries.
 

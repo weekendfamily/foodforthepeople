@@ -19,7 +19,7 @@ This recipe started as a recommendation from my sister, after she saw it in a co
 
 Do not fear [celeriac](http://www.bbcgoodfood.com/glossary/celeriac)! It is wonderful vegetable, very versatile whose flavor has a hint of sweetness and is a (very) watered down version of the more pungent stalks. The eggs combines wonderfully with the salmon and adds some color to the dish - as we say "os olhos também comem" (~ eyes also eat).  
 
-![The bastard](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/SpinachAndSalmon.jpg)
+![The bastard]({{ site.url }}/images/img/SpinachAndSalmon.jpg)
 
 The results is dish full of flavor with citrus notes without being overpowering. As it is custom in Food For the People, it was prepared with some frozen ingredients (Salmon and Spinach) which makes it relatively easy to prepare when there is no time to do some fresh grocery shopping after work. 
 

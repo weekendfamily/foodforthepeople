@@ -23,7 +23,7 @@ For the Pumpkin mash I took some inspiration from this BBC Good Food recipe, but
  
 Other pumpkins could also be used, so check what your supermarket has on offer. Also, if Dolcelate is not available use Gorgonzola or other Blue Cheese. Try and choose a mild one unless you like pungent cheese flavors.
 
-![Some fancy stuff](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/PumkinMashAndDuck.jpg)
+![Some fancy stuff]({{ site.url }}/images/img/PumkinMashAndDuck.jpg)
 
 
 #### Variations

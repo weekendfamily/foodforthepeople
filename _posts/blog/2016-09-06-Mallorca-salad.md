@@ -17,7 +17,7 @@ date: 2016-09-06 19:11:02.000000000 +02:00
 
 What I like about this salad its the freshness that comes from the peaches added to the tanginess of the white wine vinegar. It is also very colorful and a treat to the eyes. Even though it can be eaten by itself in a warm summer evening, it is perfect as a side in a BBQ. Vegetarian friendly, though not in the picture.
 
-![Sometimes a salad comes with little sausages.](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/MallorcaSalad.jpg)
+![Sometimes a salad comes with little sausages.]({{ site.url }}/images/img/MallorcaSalad.jpg)
 
 #### Source
 This recipe was nicked from [this recipe book](http://www.randomhouse.de/Buch/Kochbuch/Tim-Maelzer/Mosaik-Verlag/e241466.rhd), so all credits go to Tim Mälzer (a famous TV chef in Germany). 

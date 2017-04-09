@@ -27,7 +27,7 @@ Since the amount of filling was increased in my version, time in the oven was al
 + replace sugar with honey
 + replace digestive biscuits crust with an almond flour based one
 
-![A lovely dessert can be prepared in a few minutes.](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/FetaCheesecake.jpg)
+![A lovely dessert can be prepared in a few minutes.]({{ site.url }}/images/img/FetaCheesecake.jpg)
 
 
 #### Source

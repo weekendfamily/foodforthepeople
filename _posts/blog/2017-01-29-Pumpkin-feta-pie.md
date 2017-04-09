@@ -20,7 +20,7 @@ date: 2017-01-29 19:09:02.000000000 +02:00
 
 The Linguist also likes to cook and try new recipes. She also happens to read a newspaper, SZ to those in the know, that publishes some nice recipes in the weekend edition. Those tend to look nice, but also be on the elaborate side of "I can't bother to buy all the ingredients". This one however is just about easy enough to prepare and doesn't require extravagant ingredients, so we decided to give a go. 
 
-![Burn!](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/PumpkinAndGoatCheesePie.jpg)
+![Burn!]({{ site.url }}/images/img/PumpkinAndGoatCheesePie.jpg)
 
 And it turned out quite nicely. Ok, the pumpkin was a little dark, but I don't mind and it was very tasty. Will do again. 
 

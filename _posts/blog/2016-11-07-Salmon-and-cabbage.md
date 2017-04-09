@@ -18,7 +18,7 @@ I must confess: I love cabbage. It goes well with any number of dishes, nutritio
 
 Cabbage is a serious matter for me. Anyway, I got hold of this recipe and though it was a interesting combination of salmon and Vegetable king, and the Dill vinagrette intrigued me. 
 
-![Cabbage!.](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/SalmonAndCabbage.jpg)
+![Cabbage!.]({{ site.url }}/images/img/SalmonAndCabbage.jpg)
 
 Who am I kidding? I wanted a cabbage dish and there was not a lot of time to prepare it. This fitted the bill. It also turned out to have a wonderful flavor with the dill and lemon combining well with the cabbage. 
 

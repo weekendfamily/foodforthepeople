@@ -18,7 +18,7 @@ date: 2016-11-07 22:11:02.000000000 +02:00
 
 I am not the biggest fish fan, but sometimes I just feel like having seafood. This is variation of the classic Portuguese [Feijoada](https://en.wikipedia.org/wiki/Feijoada), which has very little to do with the original. Then again Feijoada means "made from beans", this dish has beans. The white beans and seafood are very nice combination, and the parsley is staple of Portuguese cuisine. When in doubt, add parsley. 
 
-![Cabbage!.](https://dl.dropboxusercontent.com/u/9519660/foodforthepeople/img/SeafoodAndBeans.jpg)
+![Cabbage!.]({{ site.url }}/images/img/SeafoodAndBeans.jpg)
 
 As per usual this recipe can be made with readily available ingredients and is very easy as fast to prepare. It is also quite tasty and nutritious. I sometimes add some Piri-piri or chili to give it a bit more humph, but if the chouriço is spicy it will give enough flavor to the dish. 
 
