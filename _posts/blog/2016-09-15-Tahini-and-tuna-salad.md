@@ -46,6 +46,7 @@ Inspiration from a [paleo website](http://stupideasypaleo.com/2015/01/30/paleo-l
 #### Ingredients
 
 * Tuna: 140g, canned in water
+* Tahini: 2 tablespoons
 * Salad greens: 2-3 cups, for instance half a lettuce.
 * Cherry tomatoes: a handful
 * lemon juice: 2-3 tablespoons, or 1 lemon
