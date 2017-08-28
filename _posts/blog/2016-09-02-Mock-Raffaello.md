@@ -26,6 +26,11 @@ A few notes on the ingredients:
 3. Honey can be replaced with plain sugar. I prefer honey.
 
 
+### Variations
+
+I once mixed it with KitchenAid (step 1) with the whisker adapter thingy and it turned out too liquid. The mixing should be gentle.  
+
+
 ---
 * Servings: 4
 * Prep Time:  20 mins
@@ -47,7 +52,7 @@ A few notes on the ingredients:
 
 #### Directions
 
-1. In a bowl mix all the ingredients, except the ground hazelnuts, until they have a nice smooth consistency. This can be done with a spoon, or whisker or a KitchenAid style mixer.
+1. In a bowl gently mix all the ingredients, except the ground hazelnuts, until they have a nice smooth consistency. This can be done with a spoon, or whisker or a KitchenAid style mixer.
 2. Leave it for at least 20 minutes in the fridge to cool off and acquire consistency.
 3. Serve in small dessert bowls and dot with the ground hazelnuts.
 
