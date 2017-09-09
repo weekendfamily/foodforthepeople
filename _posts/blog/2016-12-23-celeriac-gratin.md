@@ -24,10 +24,10 @@ And this recipe? Well, I am big fan of celeriac as a side dish and anything will
 
 From the original recipe a few things were changed:
 - no crust obviously
-- the honey is way less, 1 tablespoon became 1 teaspoon
+- way less honey, 1 tablespoon became 1 teaspoon
 - half of the herbs were used, though I probably should have used all of it.
 - I forgot to grate 1/3 of the celeriac
-- Celeriac was cubbed and fried in 2 tablespoon of olive olive oil for about 10 minutes, instead of boiling. I hoped this would give it a bit more flavour.
+- Celeriac was cubbed and fried in 2 tablespoon of olive olive oil for about 10 minutes, instead of boiling. I hoped this would give it a bit more flavor.
 - Cheddar was replaced with 100 g Emmentaler and 150 g of Gruyére.
 
 
@@ -47,7 +47,7 @@ From the original recipe a few things were changed:
 
 #### Ingredients
 
-* Celeriac: 1kg, about 1-2 headsm cubbed.
+* Celeriac: 1kg, or about 1-2 heads, cubbed.
 * Garlic,: 3 heads, cloves separated and peeled
 * Cheddar cheese: 220g, coarsely grated
 * Creme fraiche: 150g
@@ -72,7 +72,7 @@ From the original recipe a few things were changed:
 
 3. Add the honey, most of the rosemary and thyme (save a little, with the sage) and salt. Cook on medium heat for another 5 minutes, or until most of the liquid has evaporated. The the garlic cloves should be coated in a dark syrup.
 
-4. While the sauce is thickening, peel the celeriac and cut it into quarters, setting aside about 1/3. Slice the rest in 2cm-thick pieces. Boil these pieces in hot water for 7-10 minutes. Drain. Meantime, grate the remaining celeriac.
+4. While the sauce is thickening, peel the celeriac and cut it into quarters, setting aside about 1/3. Slice the rest in 2 cm-thick pieces. Boil these pieces in hot water for 7-10 minutes. Drain. Meantime, grate the remaining celeriac.
 
 5. In bowl mix the boiled celeriac, cheese, creme fraiche, lemon juice, mustard, parsley and eggs. Add salt and grind of pepper and gently fold in the caramelized garlic cloves.
 
