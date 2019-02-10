@@ -70,7 +70,8 @@ _Pudding_
 1. With an hand mixer (or KitchenAid), mix the eggs with the sugar, lemon zest and orange juice. Keep mixing and slowly drip the warm milk.
 2. Spread the caramel all over the inside of the baking it to coat it generously. Having extra caramel on the bottom is not a problem, in fact you want that. Pour the egg mixture in the tin, put the lid on top and cook in a water bath (covering 3/4 of the backing tin) at medium low temperature (4/10 on my induction stove) for 45 min.
 3. Check if is cooked by sticking a spaghetti or a toothpick pick in the pudding. If it isn't just cook longer in intervals of 15-30 min to avoid overcooking. 
-4. Enjoy! 
+4. Let it cool in the fridge for a few hours before flipping over plate. You might need to bang (gently) the tin a few times before it comes out.
+5. Enjoy! 
 
 _Caramelized sugar_
 
