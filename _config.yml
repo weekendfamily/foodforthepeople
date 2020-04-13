@@ -5,9 +5,9 @@ locale: en_US
 description: Cooking for everyday!
 logo: site-logo.png
 search: true
-# url: http://localhost:4000
+url: http://localhost:4000
 # Site live URL
-url: http://weekendfamily.github.io/foodforthepeople
+# url: http://weekendfamily.github.io/foodforthepeople
 
 # Jekyll configuration
 

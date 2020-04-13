@@ -2,6 +2,134 @@
 
   
     {
+      "title"			: "Easter South Portuguese Lamb",
+      "link"			: "http://localhost:4000/blog/Portuguese-Egg-and-Citrus-Pudding/",
+      "excerpt"		: "So intense."
+    }
+  
+
+  
+    ,{
+      "title"			: "Portuguese egg and citrus pudding",
+      "link"			: "http://localhost:4000/blog/Portuguese-Egg-and-Citrus-Pudding/",
+      "excerpt"		: "Saudade."
+    }
+  
+
+  
+    ,{
+      "title"			: "Celeriac and apple mash with a twist",
+      "link"			: "http://localhost:4000/blog/Celeriac-apple-mash/",
+      "excerpt"		: "A superb side for anything that used to make oinc oinc"
+    }
+  
+
+  
+    ,{
+      "title"			: "Chocolaty and Hazelnut tart",
+      "link"			: "http://localhost:4000/blog/Chocolate-hazelnut-tart/",
+      "excerpt"		: "So intense."
+    }
+  
+
+  
+    ,{
+      "title"			: "Pumpkin and Goat cheese pie with thyme",
+      "link"			: "http://localhost:4000/blog/Pumpkin-feta-pie/",
+      "excerpt"		: "Goat to eat this"
+    }
+  
+
+  
+    ,{
+      "title"			: "Feta and chouriço frittata",
+      "link"			: "http://localhost:4000/blog/Feta-chourico-frittata/",
+      "excerpt"		: "It's like a fancy omolete"
+    }
+  
+
+  
+    ,{
+      "title"			: "Pork fillet with orange and mustard",
+      "link"			: "http://localhost:4000/blog/Pork-fillet-with-orange-and-mustard/",
+      "excerpt"		: "Lean, mean, tasty dish"
+    }
+  
+
+  
+    ,{
+      "title"			: "Cauliflower mash",
+      "link"			: "http://localhost:4000/blog/cauliflower-mash/",
+      "excerpt"		: "The side kick every superhero (meal) needs"
+    }
+  
+
+  
+    ,{
+      "title"			: "Easy chicken stew",
+      "link"			: "http://localhost:4000/blog/easy-chicken-stew/",
+      "excerpt"		: "Straight from my mum's repertoire, the easiest recipe you will ever prepare"
+    }
+  
+
+  
+    ,{
+      "title"			: "Celeriac gratin",
+      "link"			: "http://localhost:4000/blog/celeriac-gratin/",
+      "excerpt"		: "Or how to convert a fancy recipe into a meal for the masses"
+    }
+  
+
+  
+    ,{
+      "title"			: "Seafood and bean stew",
+      "link"			: "http://localhost:4000/blog/Seafoof-and-beans/",
+      "excerpt"		: "Or, when you miss the Atlantic Ocean eat _feijoada de marisco_."
+    }
+  
+
+  
+    ,{
+      "title"			: "Salmon and Cabbage with Dill Vinaigrette",
+      "link"			: "http://localhost:4000/blog/Salmon-and-cabbage/",
+      "excerpt"		: "Don't let the hipsters take our cabbage."
+    }
+  
+
+  
+    ,{
+      "title"			: "Peas with pouched egg and chouriço",
+      "link"			: "http://localhost:4000/blog/Peas-with-poached-eggs/",
+      "excerpt"		: "Comfort food from Portugal... as it is most Portuguese food"
+    }
+  
+
+  
+    ,{
+      "title"			: "Stew with Uzbek spices",
+      "link"			: "http://localhost:4000/blog/Lamb-stew-with-caulifower-mash/",
+      "excerpt"		: "Some food just needs to be shared with friends"
+    }
+  
+
+  
+    ,{
+      "title"			: "Hommous",
+      "link"			: "http://localhost:4000/blog/Hommous/",
+      "excerpt"		: "Sometimes is best to keep it simple, and sometimes simple is also worldly and healthy."
+    }
+  
+
+  
+    ,{
+      "title"			: "Parsnip, garlic and blue cheese",
+      "link"			: "http://localhost:4000/blog/Parsnip-and-blue-cheese/",
+      "excerpt"		: "Autumn arrived, but don't run. This is really good."
+    }
+  
+
+  
+    ,{
       "title"			: "Salmon and spinach in a bed of celeriac",
       "link"			: "http://localhost:4000/blog/Salmon-Spinach-and-egg/",
       "excerpt"		: "Some recipes get so bastardized that their mother wouldn't recognized them"
@@ -106,6 +234,8 @@
       "link"			: "http://localhost:4000/about/",
       "excerpt"		: "Collection of recipes for people that do not have time and make mistakes - The People"
     }
+  
+
   
 
   
