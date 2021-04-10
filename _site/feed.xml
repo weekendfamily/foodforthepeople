@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2020-04-13T21:51:09+02:00</updated>
+<updated>2020-12-06T22:21:56+01:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>António Domingues</name>
@@ -14,9 +14,99 @@
 
 
 <entry>
+  <title type="html"><![CDATA[Coq au Vin]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/Coq-au-Vin/" />
+  <id>http://localhost:4000/blog/Coq-au-Vin</id>
+  <published>2020-12-06T21:10:02+01:00</published>
+  <updated>2020-12-06T21:10:02+01:00</updated>
+  <author>
+    <name>António Domingues</name>
+    <uri>http://localhost:4000</uri>
+    <email>amjdomingues@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;This is a classic of French cuisine and remarkably easy - though time and a some vegetable chopping are required- and guaranteed to impress your guests. Extra marks for being a one pot comfort meal.&lt;/p&gt;
+
+&lt;p&gt;Taste: amazing!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/img/Coq_Au_Vin.JPG&quot; alt=&quot;Intense&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;replacements&quot;&gt;Replacements&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use lard to fry the chicken pieces instead of bacon&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use a fairly light red wine&lt;/li&gt;
+  &lt;li&gt;More thyme than you think&lt;/li&gt;
+  &lt;li&gt;I cook both chicken legs and breaths to keep the peace in the household. To avoid overcooking the breast, I add them to the pot only at the last possible step.&lt;/li&gt;
+  &lt;li&gt;you can skip the flour if you can live with a thinner sauce&lt;/li&gt;
+  &lt;li&gt;Bagaço/grappa can be used instead of brandy.&lt;/li&gt;
+  &lt;li&gt;I you want to keep it paleo-ish, add more carrots.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;source&quot;&gt;Source&lt;/h4&gt;
+
+&lt;p&gt;I took inspiration from &lt;a href=&quot;https://www.theguardian.com/lifeandstyle/2001/nov/25/foodanddrink.shopping/&quot;&gt;this recipe&lt;/a&gt; as inspiration, but simplified it a bit.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Servings: 8&lt;/li&gt;
+  &lt;li&gt;Prep Time: 45 mins&lt;/li&gt;
+  &lt;li&gt;Cooking Time: 1 hours&lt;/li&gt;
+  &lt;li&gt;Total Time:  1 hours and 45 mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chicken: 5 legs (with thighs) and 2 breasts&lt;/li&gt;
+  &lt;li&gt;Bacon: 125 grams, cut in match-thick stripes&lt;/li&gt;
+  &lt;li&gt;Red wine: 1 bottle&lt;/li&gt;
+  &lt;li&gt;Shallots: 6, cut in half if large (or 10 small ones)&lt;/li&gt;
+  &lt;li&gt;Mushrooms, 500 grams, quartered&lt;/li&gt;
+  &lt;li&gt;Garlic cloves: 2 sliced&lt;/li&gt;
+  &lt;li&gt;Chicken stock: 500 ml&lt;/li&gt;
+  &lt;li&gt;carrots: 6, cut in large chunks&lt;/li&gt;
+  &lt;li&gt;Thyme: 6 sprigs&lt;/li&gt;
+  &lt;li&gt;Parsley: 2 stalks&lt;/li&gt;
+  &lt;li&gt;Bay leaves: 2&lt;/li&gt;
+  &lt;li&gt;Brandy, 2 tbsp&lt;/li&gt;
+  &lt;li&gt;Flour, 2 tbsp&lt;/li&gt;
+  &lt;li&gt;butter, 3 tbsp&lt;/li&gt;
+  &lt;li&gt;Sea salt: to taste&lt;/li&gt;
+  &lt;li&gt;Black pepper: to taste, about 1 tbsp&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;directions&quot;&gt;Directions&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Heat a large pot on medium (medium high), and melt 1-2 tablespoons of butter it.&lt;/li&gt;
+  &lt;li&gt;Throw the bacon slices and fry until golden. Remove them and keep them in a bowl.&lt;/li&gt;
+  &lt;li&gt;Fry the chicken thighs (not the breasts), until the skin is golden brown, in several batches if needed. If there is not enough fat, add that extra tbsp of butter. Remove to a bowl.&lt;/li&gt;
+  &lt;li&gt;Add the Shallots, carrots and garlic to the pot and fry until the garlic is translucent in the remaining fat. Add the mushrooms and fry for about 5 minutes (so save some time, the mushrooms can be sauteed separately and added to the pot at this stage).&lt;/li&gt;
+  &lt;li&gt;Return the bacon and the chicken, including the breasts, coat with the flower,  cooking for a couple of minutes. Add the brandy and light it up for extra wow effect (be careful).&lt;/li&gt;
+  &lt;li&gt;Nestle the herbs in between the meat, add the wine and the stock until meat is fully covered.&lt;/li&gt;
+  &lt;li&gt;Bring a boil and simmer for 40-60 minutes until the chicken is tender.&lt;/li&gt;
+  &lt;li&gt;To reduce the sauce, remove the chicken from the pot, or strain the whole thing, and heat up the pot until the liquid starts boiling. Stop when you think it is thick enough for you - it won’t be too thick so I usually do it for 10 minutes.&lt;/li&gt;
+  &lt;li&gt;Serve with bread / rice / boiled potatoes.&lt;/li&gt;
+  &lt;li&gt;Enjoy!&lt;/li&gt;
+&lt;/ol&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/Coq-au-Vin/&quot;&gt;Coq au Vin&lt;/a&gt; was originally published by António Domingues at &lt;a href=&quot;http://localhost:4000&quot;&gt;&lt;/a&gt; on December 06, 2020.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Easter South Portuguese Lamb]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/Portuguese-Egg-and-Citrus-Pudding/" />
-  <id>http://localhost:4000/blog/Portuguese-Egg-and-Citrus-Pudding</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/Easter-South-PortugueseLamb/" />
+  <id>http://localhost:4000/blog/Easter-South-PortugueseLamb</id>
   <published>2020-04-12T23:24:02+02:00</published>
   <updated>2020-04-12T23:24:02+02:00</updated>
   <author>
@@ -91,7 +181,7 @@ I served it with sliced oranges, and it tasted good, but it is not a requirement
   &lt;li&gt;Enjoy&lt;/li&gt;
 &lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/Portuguese-Egg-and-Citrus-Pudding/&quot;&gt;Easter South Portuguese Lamb&lt;/a&gt; was originally published by António Domingues at &lt;a href=&quot;http://localhost:4000&quot;&gt;&lt;/a&gt; on April 12, 2020.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/Easter-South-PortugueseLamb/&quot;&gt;Easter South Portuguese Lamb&lt;/a&gt; was originally published by António Domingues at &lt;a href=&quot;http://localhost:4000&quot;&gt;&lt;/a&gt; on April 12, 2020.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1504,85 +1594,6 @@ I served it with sliced oranges, and it tasted good, but it is not a requirement
 
 
     &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/Tahini-and-tuna-salad/&quot;&gt;Tahini and tuna salad&lt;/a&gt; was originally published by António Domingues at &lt;a href=&quot;http://localhost:4000&quot;&gt;&lt;/a&gt; on September 15, 2016.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Feta cheesecake]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/Feta-cheesecake/" />
-  <id>http://localhost:4000/blog/Feta-cheesecake</id>
-  <published>2016-09-09T17:00:02+02:00</published>
-  <updated>2016-09-09T17:00:02+02:00</updated>
-  <author>
-    <name>António Domingues</name>
-    <uri>http://localhost:4000</uri>
-    <email>amjdomingues@gmail.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;I follow the food articles on &lt;a href=&quot;https://www.theguardian.com/lifeandstyle/&quot;&gt;The Guardian&lt;/a&gt; in search of inspiration for when I need something different. Most of the times the recipes are not People-friendly and require way too many odd (expensive) ingredients or are a full time job. There however times when something hits the sweet spot (pun intended) and this &lt;a href=&quot;https://www.theguardian.com/lifeandstyle/2016/sep/03/feta-cheese-cheesecake-filo-frittata-recipe-swap&quot;&gt;cheesecake with Feta&lt;/a&gt; is a case in point.&lt;/p&gt;
-
-&lt;p&gt;For this recipe I had to do very few minor changes, mostly due to the fact that I don’t own a 20 cm cake form, but rather a 25 cm, so the ingredients for the filling were scaled up by a 1/3, with one exception: sugar. The original recipe is quite generous with the sugar, 160g, whereas half of that is enough for me. My recommendation is that, if following the original recipe, you start with half of the sugar, and taste the filling adjusting if needed, before adding it to the crust.&lt;/p&gt;
-
-&lt;p&gt;Another change, this time by complete accident but turned out to add even more flavor, was that I added the lemon juice to the filling by accident - it should have been only the zest. This mistake paid off though. Also, I did not have black sesame seeds (who does?) so I used normal sesame seeds.&lt;/p&gt;
-
-&lt;p&gt;Since the amount of filling was increased in my version, time in the oven was also extended by about 5-10 minutes. Check the cake after 40 minutes and  if not slightly brown on the top, extend the time as needed.&lt;/p&gt;
-
-&lt;h4 id=&quot;things-to-try&quot;&gt;Things to try&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;replace sugar with honey&lt;/li&gt;
-  &lt;li&gt;replace digestive biscuits crust with an almond flour based one&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/img/FetaCheesecake.jpg&quot; alt=&quot;A lovely dessert can be prepared in a few minutes.&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;source&quot;&gt;Source&lt;/h4&gt;
-&lt;p&gt;All credits go to &lt;a href=&quot;https://witness.theguardian.com/user/borrowedbread&quot;&gt;Faye Cooke&lt;/a&gt; and The Guardian.&lt;/p&gt;
-
-&lt;p&gt;So here are my changes to the recipe, though if you stick to the original you won’t go wrong.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;ul&gt;
-  &lt;li&gt;Servings: 8-10&lt;/li&gt;
-  &lt;li&gt;Prep Time:  30 mins&lt;/li&gt;
-  &lt;li&gt;Cooking Time:  45 mins&lt;/li&gt;
-  &lt;li&gt;Total Time:  75 mins&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Digestive biscuits: 150g, crushed&lt;/li&gt;
-  &lt;li&gt;Salt: a pinch&lt;/li&gt;
-  &lt;li&gt;Sesame seeds: 1 1/2 tablespoon&lt;/li&gt;
-  &lt;li&gt;Butter: 50 grams, melted&lt;/li&gt;
-  &lt;li&gt;Feta: 300 grams&lt;/li&gt;
-  &lt;li&gt;Cream cheese: 400 grams&lt;/li&gt;
-  &lt;li&gt;Eggs: 3&lt;/li&gt;
-  &lt;li&gt;Zest of 1 lemon&lt;/li&gt;
-  &lt;li&gt;Caster sugar: 80 grams&lt;/li&gt;
-  &lt;li&gt;Peaches: 2&lt;/li&gt;
-  &lt;li&gt;Raspberries: 100 grams, frozen&lt;/li&gt;
-  &lt;li&gt;Lemon juice: 2 tablespoons&lt;/li&gt;
-  &lt;li&gt;Honey: 1 tablespoons&lt;/li&gt;
-  &lt;li&gt;Unsalted butter: 20g&lt;/li&gt;
-  &lt;li&gt;Thyme: 1 sprig, leaves picked&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;directions&quot;&gt;Directions&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Line a 20cm springform cake tin with greaseproof paper. Put the biscuit crumbs into a bowl with the salt and sesame seeds and mix in the melted butter until well combined. Press the mixture into the bottom of the cake tin, evening out with the back of a spoon, and put in the fridge while you prepare the filling.&lt;/li&gt;
-  &lt;li&gt;Preheat the oven to 180C/350F/gas mark 4. In a mixing bowl, break down the feta using a fork. Whisk in the cream cheese, eggs, lemon zest, one tablespoon of lemon juice and the sugar. Put the tin on a baking sheet, pour the filling on to the crust and give it a tap to even it out. Bake in the middle of the oven for 40 minutes, or until almost set.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, dice the peaches and put the pieces in a roasting tray with the raspberries, lemon juice and the honey. Flake over the unsalted butter, cover with foil and set aside. When the cheesecake has 15 minutes left, put the roasting tin on the bottom shelf of the oven.&lt;/li&gt;
-  &lt;li&gt;Remove the cheesecake and fruit from the oven. Let them cool slightly. Carefully transfer the cheesecake to a plate. Lift the fruit from its juice and spoon on top of the cheesecake. Pour over 1 tbsp the juice, then chill the rest.&lt;/li&gt;
-  &lt;li&gt;Scatter over the thyme leaves. Serve with the reserved juice from the fruits.&lt;/li&gt;
-&lt;/ol&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/Feta-cheesecake/&quot;&gt;Feta cheesecake&lt;/a&gt; was originally published by António Domingues at &lt;a href=&quot;http://localhost:4000&quot;&gt;&lt;/a&gt; on September 09, 2016.&lt;/p&gt;
   </content>
 </entry>
 

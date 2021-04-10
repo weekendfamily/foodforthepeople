@@ -241,7 +241,7 @@ bundle exec jekyll serve</code></pre></figure>
 
 <h4 id="url">url</h4>
 
-<p>Used to generate absolute URLs for sitemaps, feeds and for generating canonical URLs in a page’s <code class="highlighter-rouge">&lt;head&gt;</code>. When developing locally either comment this out or use something like <code class="highlighter-rouge">http://localhost:4000</code> so all assets load properly. <em>Don’t include a trailing <code class="highlighter-rouge">/</code></em>. <a href="http://www.paulirish.com/2010/the-protocol-relative-url/">Protocol-relative URLs</a> are a nice option but there are a few caveats<sup id="fnref:protocol"><a href="#fn:protocol" class="footnote">1</a></sup>.</p>
+<p>Used to generate absolute URLs for sitemaps, feeds and for generating canonical URLs in a page’s <code class="highlighter-rouge">&lt;head&gt;</code>. When developing locally either comment this out or use something like <code class="highlighter-rouge">http://localhost:4000</code> so all assets load properly. <em>Don’t include a trailing <code class="highlighter-rouge">/</code></em>. <a href="http://www.paulirish.com/2010/the-protocol-relative-url/">Protocol-relative URLs</a> are a nice option but there are a few caveats<sup id="fnref:protocol" role="doc-noteref"><a href="#fn:protocol" class="footnote">1</a></sup>.</p>
 
 <p>Examples:</p>
 
@@ -313,7 +313,7 @@ bundle exec jekyll serve</code></pre></figure>
 
 <h3 id="feature-images">Feature Images</h3>
 
-<p>A good rule of thumb is to keep feature images nice and wide so you don’t push the body text too far down. An image cropped around around 1024 x 256 pixels will keep file size down with an acceptable resolution for most devices. If you want to serve these images responsively I’d suggest looking at the <a href="https://github.com/robwierzbowski/jekyll-picture-tag">Jekyll Picture Tag</a> plugin<sup id="fnref:plugins"><a href="#fn:plugins" class="footnote">2</a></sup>.</p>
+<p>A good rule of thumb is to keep feature images nice and wide so you don’t push the body text too far down. An image cropped around around 1024 x 256 pixels will keep file size down with an acceptable resolution for most devices. If you want to serve these images responsively I’d suggest looking at the <a href="https://github.com/robwierzbowski/jekyll-picture-tag">Jekyll Picture Tag</a> plugin<sup id="fnref:plugins" role="doc-noteref"><a href="#fn:plugins" class="footnote">2</a></sup>.</p>
 
 <p>The post and page layouts make the assumption that the feature images live in the <code class="highlighter-rouge">images/</code> folder. To add a feature image to a post or page just include the filename in the front matter like so.</p>
 
@@ -442,13 +442,13 @@ bundle exec jekyll serve</code></pre></figure>
 <h2 id="license">License</h2>
 
 <p>This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.</p>
-<div class="footnotes">
+<div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:protocol">
-      <p>If you decide to use a protocol-relative URL know that it will most likely break sitemap.xml that the Jekyll-Sitemap gem creates. If a valid sitemap matters to you I’d suggest <a href="http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin/">creating your own sitemap.xml</a> and apply some Liquid logic to prepend links to posts/pages with <code class="highlighter-rouge">https:</code>. <a href="#fnref:protocol" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:protocol" role="doc-endnote">
+      <p>If you decide to use a protocol-relative URL know that it will most likely break sitemap.xml that the Jekyll-Sitemap gem creates. If a valid sitemap matters to you I’d suggest <a href="http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin/">creating your own sitemap.xml</a> and apply some Liquid logic to prepend links to posts/pages with <code class="highlighter-rouge">https:</code>. <a href="#fnref:protocol" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:plugins">
-      <p>If you’re using GitHub Pages to host your site be aware that plugins are disabled. You’ll need to build your site locally and then manually deploy if you want to use this sweet plugin. <a href="#fnref:plugins" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:plugins" role="doc-endnote">
+      <p>If you’re using GitHub Pages to host your site be aware that plugins are disabled. You’ll need to build your site locally and then manually deploy if you want to use this sweet plugin. <a href="#fnref:plugins" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>
